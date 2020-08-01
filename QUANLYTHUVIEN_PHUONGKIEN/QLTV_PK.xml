@@ -1,221 +1,221 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="QLTV_PK.xsl "?>
-<QUANLYTHUVIEN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="D:/QLTV_PK.xsd">
-  <SACH>
-    <MaSACH>MASA000000</MaSACH>
-    <MaPT>MAPT000000</MaPT>
-    <MaPM>MAPM000000</MaPM>
-    <TenSach>Số Học Và Toán Học Rời Rạc</TenSach>
-    <TacGia>Nguyễn Tất Thu</TacGia>
-    <TenLoaiSach>Toán Học</TenLoaiSach>
-    <NgonNgu>Tiếng Việt</NgonNgu>
-    <SLNhap>5</SLNhap>
-    <VITRIDATSACH>KKDS000000</VITRIDATSACH>
-    <NhaXuatBan>Nhà Xuất Bản Tổng Hợp Thành Phố Hồ Chí Minh</NhaXuatBan>
-    <TinhTrang>Còn Hàng</TinhTrang>
-  </SACH>
-  <SACH>
-    <MaSACH>MASA000001</MaSACH>
-    <MaPT>MAPT000001</MaPT>
-    <MaPM>MAPM000001</MaPM>
-    <TenSach>Đắc Nhân Tâm</TenSach>
-    <TacGia>Dale Carnegie</TacGia>
-    <TenLoaiSach>Kỹ Năng Sống</TenLoaiSach>
-    <NgonNgu>Tiếng Việt</NgonNgu>
-    <SLNhap>20</SLNhap>
-    <VITRIDATSACH>KKDS000001</VITRIDATSACH>
-    <NhaXuatBan>Nhà Xuất Bản Tổng Hợp Thành Phố Hồ Chí Minh</NhaXuatBan>
-    <TinhTrang>Còn Hàng</TinhTrang>
-  </SACH>
-  <SACH>
-    <MaSACH>MASA000002</MaSACH>
-    <MaPT>MAPT000002</MaPT>
-    <MaPM>MAPM000002</MaPM>
-    <TenSach>Giá Trong Chiến Lược Kinh Doanh</TenSach>
-    <TacGia>Hidenobu Senga</TacGia>
-    <TenLoaiSach>Kinh Doanh </TenLoaiSach>
-    <NgonNgu>Tiếng Việt</NgonNgu>
-    <SLNhap>6</SLNhap>
-    <VITRIDATSACH>KKDS000002</VITRIDATSACH>
-    <NhaXuatBan>Nhà Xuất Bản Thanh Niên</NhaXuatBan>
-    <TinhTrang>Còn Hàng</TinhTrang>
-  </SACH>
-  <SACH>
-    <MaSACH>MASA000003</MaSACH>
-    <MaPT>MAPT000003</MaPT>
-    <MaPM>MAPM000003</MaPM>
-    <TenSach>Báo Cáo Tài Chính - Hướng Dẫn Từng Bước Hiểu Và Lập Báo Cáo Tài Chính</TenSach>
-    <TacGia>Thomas R. Ittelson</TacGia>
-    <TenLoaiSach>Tài Chính</TenLoaiSach>
-    <NgonNgu>Tiếng Việt</NgonNgu>
-    <SLNhap>0</SLNhap>
-    <VITRIDATSACH>KKDS000003</VITRIDATSACH>
-    <NhaXuatBan>Nhà Xuất Bản Hồng Đức</NhaXuatBan>
-    <TinhTrang>Hết Hàng</TinhTrang>
-  </SACH>
-  <SACH>
-    <MaSACH>MASA000004</MaSACH>
-    <MaPT>MAPT000004</MaPT>
-    <MaPM>MAPM000004</MaPM>
-    <TenSach>The Clean Coder: A Code of Conduct for Professional Programmers</TenSach>
-    <TacGia>Robert C. Martin</TacGia>
-    <TenLoaiSach>Lập Trình</TenLoaiSach>
-    <NgonNgu>Tiếng Anh</NgonNgu>
-    <SLNhap>10</SLNhap>
-    <VITRIDATSACH>KKDS000004</VITRIDATSACH>
-    <NhaXuatBan>
-    </NhaXuatBan>
-    <TinhTrang>Còn Hàng</TinhTrang>
-  </SACH>
-  <SACH>
-    <MaSACH>MASA000005</MaSACH>
-    <MaPT>MAPT000005</MaPT>
-    <MaPM>MAPM000005</MaPM>
-    <TenSach>Tuổi Trẻ Đáng Giá Bao Nhiêu</TenSach>
-    <TacGia>Rosie Nguyễn</TacGia>
-    <TenLoaiSach>Kỹ Năng Sống</TenLoaiSach>
-    <NgonNgu>Tiếng Việt</NgonNgu>
-    <SLNhap>3</SLNhap>
-    <VITRIDATSACH>KKDS000005</VITRIDATSACH>
-    <NhaXuatBan>Nhà Xuất Bản Hội Nhà Văn</NhaXuatBan>
-    <TinhTrang>Còn Hàng</TinhTrang>
-  </SACH>
-  <SACH>
-    <MaSACH>MASA000006</MaSACH>
-    <MaPT>MAPT000006</MaPT>
-    <MaPM>MAPM000006</MaPM>
-    <TenSach>Oxford English Grammar Course Advanced With Answers CD- ROM</TenSach>
-    <TacGia>Michael Swan</TacGia>
-    <TenLoaiSach>Học Tiếng Anh</TenLoaiSach>
-    <NgonNgu>Tiếng Anh</NgonNgu>
-    <SLNhap>17</SLNhap>
-    <VITRIDATSACH>KKDS000006</VITRIDATSACH>
-    <NhaXuatBan>
-    </NhaXuatBan>
-    <TinhTrang>Còn Hàng</TinhTrang>
-  </SACH>
-  <NHANVIEN>
-    <MaNV>MANV000000</MaNV>
-    <TenNV>Lê Thành Phương</TenNV>
-    <TaiKhoanNV>phuong59</TaiKhoanNV>
-    <MatKhauNV>ltphuong</MatKhauNV>
-    <NgaySinhNV>1999-02-04</NgaySinhNV>
-    <DiaChiNV>Cam Hòa, Cam Lâm, Khánh Hòa</DiaChiNV>
-    <SDTNV>0947814411</SDTNV>
-    <LuongNV>6500000.0</LuongNV>
-  </NHANVIEN>
-  <NHANVIEN>
-    <MaNV>MANV000001</MaNV>
-    <TenNV>Nguyễn Cao Kiên</TenNV>
-    <TaiKhoanNV>kien1998</TaiKhoanNV>
-    <MatKhauNV>nckien58</MatKhauNV>
-    <NgaySinhNV>1998-05-15</NgaySinhNV>
-    <DiaChiNV>Đắc Nông</DiaChiNV>
-    <SDTNV>0169599907</SDTNV>
-    <LuongNV>5000000.0</LuongNV>
-  </NHANVIEN>
-  <NHAXUATBAN>
-    <MaNXB>MANXB00000</MaNXB>
-    <TenNXB>Nhà Xuất Bản Tổng Hợp Thành Phố Hồ Chí Minh</TenNXB>
-    <DiaChiNXB>62 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Hồ Chí Minh</DiaChiNXB>
-    <EmailNXB>tonghop@nxbhcm.com.vn</EmailNXB>
-    <SDTNXB>02838256713</SDTNXB>
-  </NHAXUATBAN>
-  <NHAXUATBAN>
-    <MaNXB>MANXB00001</MaNXB>
-    <TenNXB>Nhà Xuất Bản Thanh Niên</TenNXB>
-    <DiaChiNXB>64 Bà Triệu, Hoàn Kiếm, Hà Nội</DiaChiNXB>
-    <EmailNXB>chinhanhnxbthanhnien@gmail.com</EmailNXB>
-    <SDTNXB>0462631724</SDTNXB>
-  </NHAXUATBAN>
-  <NHAXUATBAN>
-    <MaNXB>MANXB00002</MaNXB>
-    <TenNXB>Nhà Xuất Bản Hồng Đức</TenNXB>
-    <DiaChiNXB>152 Thụy Khuê, Thuỵ Khuê, Tây Hồ, Hà Nội</DiaChiNXB>
-    <EmailNXB>
-    </EmailNXB>
-    <SDTNXB>0102268461</SDTNXB>
-  </NHAXUATBAN>
-  <NHAXUATBAN>
-    <MaNXB>MANXB00003</MaNXB>
-    <TenNXB>Nhà Xuất Bản Hội Nhà Văn</TenNXB>
-    <DiaChiNXB>65 Nguyễn Du, Hai Bà Trưng, Hà Nội</DiaChiNXB>
-    <EmailNXB>nxbhoinhavan65@gmail.com</EmailNXB>
-    <SDTNXB>02438222135</SDTNXB>
-  </NHAXUATBAN>
-  <DOCGIA>
-    <MaDG>MADG000000</MaDG>
-    <MaTTV>MATTV00000</MaTTV>
-    <TenDG>Nguyễn Anh Tiến</TenDG>
-    <SDTDG>0165248023</SDTDG>
-    <GTDG>Nam</GTDG>
-    <NgaySinhDG>1999-05-04</NgaySinhDG>
-    <NgayCapTTV>2019-10-04T18:13:51.0</NgayCapTTV>
-    <NgayHetHanTTV>2020-10-04T18:13:51.0</NgayHetHanTTV>
-  </DOCGIA>
-  <DOCGIA>
-    <MaDG>MADG000001</MaDG>
-    <MaTTV>MATTV00001</MaTTV>
-    <TenDG>Trần Văn Cao</TenDG>
-    <SDTDG>0961523144</SDTDG>
-    <GTDG>Nam</GTDG>
-    <NgaySinhDG>1998-01-25</NgaySinhDG>
-    <NgayCapTTV>2020-02-10T18:13:51.0</NgayCapTTV>
-    <NgayHetHanTTV>2021-02-10T18:13:51.0</NgayHetHanTTV>
-  </DOCGIA>
-  <DOCGIA>
-    <MaDG>MADG000002</MaDG>
-    <MaTTV>
-    </MaTTV>
-    <TenDG>Nguyễn Như Quỳnh</TenDG>
-    <SDTDG>09615241278</SDTDG>
-    <GTDG>Nữ</GTDG>
-    <NgaySinhDG>2000-05-20</NgaySinhDG>
-    <NgayCapTTV>2020-02-10T18:13:51.0</NgayCapTTV>
-    <NgayHetHanTTV>2021-02-10T18:13:51.0</NgayHetHanTTV>
-  </DOCGIA>
-  <PHIEUTHU>
-    <MaPT>MAPT000000</MaPT>
-    <MaSACH>MASA000000</MaSACH>
-    <NgayThu>2020-03-12T18:13:51.0</NgayThu>
-    <GiaTienThu>60000</GiaTienThu>
-  </PHIEUTHU>
-  <PHIEUTHU>
-    <MaPT>MAPT000001</MaPT>
-    <MaSACH>MASA000001</MaSACH>
-    <NgayThu>2020-05-04T18:13:51.0</NgayThu>
-    <GiaTienThu>90000</GiaTienThu>
-  </PHIEUTHU>
-  <PHIEUTHU>
-    <MaPT>MAPT000004</MaPT>
-    <MaSACH>MASA000004</MaSACH>
-    <NgayThu>2020-05-04T18:13:51.0</NgayThu>
-    <GiaTienThu>1250000</GiaTienThu>
-  </PHIEUTHU>
-  <BAOCAO>
-    <MaBC>MABC000000</MaBC>
-    <NgayBC>2019-05-04T18:13:51.0</NgayBC>
-    <TienThuDuoc>35000000.0</TienThuDuoc>
-    <TongTien>25000000.0</TongTien>
-  </BAOCAO>
-  <BAOCAO>
-    <MaBC>MABC000001</MaBC>
-    <NgayBC>2020-05-04T18:13:51.0</NgayBC>
-    <TienThuDuoc>50000000.0</TienThuDuoc>
-    <TongTien>35000000.0</TongTien>
-  </BAOCAO>
-  <PHIEUMUON>
-    <MaPM>MAPM000002</MaPM>
-    <MaSACH>MASA000002</MaSACH>
-    <NgayMuon>2020-05-07T08:13:51.0</NgayMuon>
-    <NgayTra>2020-05-14T17:13:51.0</NgayTra>
-    <HanTra>2006-05-21T18:13:51.0</HanTra>
-  </PHIEUMUON>
-  <PHIEUMUON>
-    <MaPM>MAPM000005</MaPM>
-    <MaSACH>MASA000005</MaSACH>
-    <NgayMuon>2020-06-03T15:30:00.0</NgayMuon>
-    <NgayTra>2020-06-15T13:10:10.0</NgayTra>
-    <HanTra>2020-06-17T15:30:00.0</HanTra>
-  </PHIEUMUON>
+<QUANLYTHUVIEN xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./QLTV_PK.xsd">
+    <SACH>
+        <MaSACH>MASA000000</MaSACH>
+        <MaPT>MAPT000000</MaPT>
+        <MaPM>MAPM000000</MaPM>
+        <TenSach>Số Học Và Toán Học Rời Rạc</TenSach>
+        <TacGia>Nguyễn Tất Thu</TacGia>
+        <TenLoaiSach>Toán Học</TenLoaiSach>
+        <NgonNgu>Tiếng Việt</NgonNgu>
+        <SLNhap>5</SLNhap>
+        <VITRIDATSACH>KKDS000000</VITRIDATSACH>
+        <NhaXuatBan>Nhà Xuất Bản Tổng Hợp Thành Phố Hồ Chí Minh</NhaXuatBan>
+        <TinhTrang>Còn Hàng</TinhTrang>
+    </SACH>
+    <SACH>
+        <MaSACH>MASA000001</MaSACH>
+        <MaPT>MAPT000001</MaPT>
+        <MaPM>MAPM000001</MaPM>
+        <TenSach>Đắc Nhân Tâm</TenSach>
+        <TacGia>Dale Carnegie</TacGia>
+        <TenLoaiSach>Kỹ Năng Sống</TenLoaiSach>
+        <NgonNgu>Tiếng Việt</NgonNgu>
+        <SLNhap>20</SLNhap>
+        <VITRIDATSACH>KKDS000001</VITRIDATSACH>
+        <NhaXuatBan>Nhà Xuất Bản Tổng Hợp Thành Phố Hồ Chí Minh</NhaXuatBan>
+        <TinhTrang>Còn Hàng</TinhTrang>
+    </SACH>
+    <SACH>
+        <MaSACH>MASA000002</MaSACH>
+        <MaPT>MAPT000002</MaPT>
+        <MaPM>MAPM000002</MaPM>
+        <TenSach>Giá Trong Chiến Lược Kinh Doanh</TenSach>
+        <TacGia>Hidenobu Senga</TacGia>
+        <TenLoaiSach>Kinh Doanh </TenLoaiSach>
+        <NgonNgu>Tiếng Việt</NgonNgu>
+        <SLNhap>6</SLNhap>
+        <VITRIDATSACH>KKDS000002</VITRIDATSACH>
+        <NhaXuatBan>Nhà Xuất Bản Thanh Niên</NhaXuatBan>
+        <TinhTrang>Còn Hàng</TinhTrang>
+    </SACH>
+    <SACH>
+        <MaSACH>MASA000003</MaSACH>
+        <MaPT>MAPT000003</MaPT>
+        <MaPM>MAPM000003</MaPM>
+        <TenSach>Báo Cáo Tài Chính - Hướng Dẫn Từng Bước Hiểu Và Lập Báo Cáo Tài Chính</TenSach>
+        <TacGia>Thomas R. Ittelson</TacGia>
+        <TenLoaiSach>Tài Chính</TenLoaiSach>
+        <NgonNgu>Tiếng Việt</NgonNgu>
+        <SLNhap>0</SLNhap>
+        <VITRIDATSACH>KKDS000003</VITRIDATSACH>
+        <NhaXuatBan>Nhà Xuất Bản Hồng Đức</NhaXuatBan>
+        <TinhTrang>Hết Hàng</TinhTrang>
+    </SACH>
+    <SACH>
+        <MaSACH>MASA000004</MaSACH>
+        <MaPT>MAPT000004</MaPT>
+        <MaPM>MAPM000004</MaPM>
+        <TenSach>The Clean Coder: A Code of Conduct for Professional Programmers</TenSach>
+        <TacGia>Robert C. Martin</TacGia>
+        <TenLoaiSach>Lập Trình</TenLoaiSach>
+        <NgonNgu>Tiếng Anh</NgonNgu>
+        <SLNhap>10</SLNhap>
+        <VITRIDATSACH>KKDS000004</VITRIDATSACH>
+        <NhaXuatBan>
+        </NhaXuatBan>
+        <TinhTrang>Còn Hàng</TinhTrang>
+    </SACH>
+    <SACH>
+        <MaSACH>MASA000005</MaSACH>
+        <MaPT>MAPT000005</MaPT>
+        <MaPM>MAPM000005</MaPM>
+        <TenSach>Tuổi Trẻ Đáng Giá Bao Nhiêu</TenSach>
+        <TacGia>Rosie Nguyễn</TacGia>
+        <TenLoaiSach>Kỹ Năng Sống</TenLoaiSach>
+        <NgonNgu>Tiếng Việt</NgonNgu>
+        <SLNhap>3</SLNhap>
+        <VITRIDATSACH>KKDS000005</VITRIDATSACH>
+        <NhaXuatBan>Nhà Xuất Bản Hội Nhà Văn</NhaXuatBan>
+        <TinhTrang>Còn Hàng</TinhTrang>
+    </SACH>
+    <SACH>
+        <MaSACH>MASA000006</MaSACH>
+        <MaPT>MAPT000006</MaPT>
+        <MaPM>MAPM000006</MaPM>
+        <TenSach>Oxford English Grammar Course Advanced With Answers CD- ROM</TenSach>
+        <TacGia>Michael Swan</TacGia>
+        <TenLoaiSach>Học Tiếng Anh</TenLoaiSach>
+        <NgonNgu>Tiếng Anh</NgonNgu>
+        <SLNhap>17</SLNhap>
+        <VITRIDATSACH>KKDS000006</VITRIDATSACH>
+        <NhaXuatBan>
+        </NhaXuatBan>
+        <TinhTrang>Còn Hàng</TinhTrang>
+    </SACH>
+    <NHANVIEN>
+        <MaNV>MANV000000</MaNV>
+        <TenNV>Lê Thành Phương</TenNV>
+        <TaiKhoanNV>phuong59</TaiKhoanNV>
+        <MatKhauNV>ltphuong</MatKhauNV>
+        <NgaySinhNV>1999-02-04</NgaySinhNV>
+        <DiaChiNV>Cam Hòa, Cam Lâm, Khánh Hòa</DiaChiNV>
+        <SDTNV>0947814411</SDTNV>
+        <LuongNV>6500000.0</LuongNV>
+    </NHANVIEN>
+    <NHANVIEN>
+        <MaNV>MANV000001</MaNV>
+        <TenNV>Nguyễn Cao Kiên</TenNV>
+        <TaiKhoanNV>kien1998</TaiKhoanNV>
+        <MatKhauNV>nckien58</MatKhauNV>
+        <NgaySinhNV>1998-05-15</NgaySinhNV>
+        <DiaChiNV>Đắc Nông</DiaChiNV>
+        <SDTNV>0169599907</SDTNV>
+        <LuongNV>5000000.0</LuongNV>
+    </NHANVIEN>
+    <NHAXUATBAN>
+        <MaNXB>MANXB00000</MaNXB>
+        <TenNXB>Nhà Xuất Bản Tổng Hợp Thành Phố Hồ Chí Minh</TenNXB>
+        <DiaChiNXB>62 Nguyễn Thị Minh Khai, Đa Kao, Quận 1, Hồ Chí Minh</DiaChiNXB>
+        <EmailNXB>tonghop@nxbhcm.com.vn</EmailNXB>
+        <SDTNXB>02838256713</SDTNXB>
+    </NHAXUATBAN>
+    <NHAXUATBAN>
+        <MaNXB>MANXB00001</MaNXB>
+        <TenNXB>Nhà Xuất Bản Thanh Niên</TenNXB>
+        <DiaChiNXB>64 Bà Triệu, Hoàn Kiếm, Hà Nội</DiaChiNXB>
+        <EmailNXB>chinhanhnxbthanhnien@gmail.com</EmailNXB>
+        <SDTNXB>0462631724</SDTNXB>
+    </NHAXUATBAN>
+    <NHAXUATBAN>
+        <MaNXB>MANXB00002</MaNXB>
+        <TenNXB>Nhà Xuất Bản Hồng Đức</TenNXB>
+        <DiaChiNXB>152 Thụy Khuê, Thuỵ Khuê, Tây Hồ, Hà Nội</DiaChiNXB>
+        <EmailNXB>
+        </EmailNXB>
+        <SDTNXB>0102268461</SDTNXB>
+    </NHAXUATBAN>
+    <NHAXUATBAN>
+        <MaNXB>MANXB00003</MaNXB>
+        <TenNXB>Nhà Xuất Bản Hội Nhà Văn</TenNXB>
+        <DiaChiNXB>65 Nguyễn Du, Hai Bà Trưng, Hà Nội</DiaChiNXB>
+        <EmailNXB>nxbhoinhavan65@gmail.com</EmailNXB>
+        <SDTNXB>02438222135</SDTNXB>
+    </NHAXUATBAN>
+    <DOCGIA>
+        <MaDG>MADG000000</MaDG>
+        <MaTTV>MATTV00000</MaTTV>
+        <TenDG>Nguyễn Anh Tiến</TenDG>
+        <SDTDG>0165248023</SDTDG>
+        <GTDG>Nam</GTDG>
+        <NgaySinhDG>1999-05-04</NgaySinhDG>
+        <NgayCapTTV>2019-10-04T18:13:51.0</NgayCapTTV>
+        <NgayHetHanTTV>2020-10-04T18:13:51.0</NgayHetHanTTV>
+    </DOCGIA>
+    <DOCGIA>
+        <MaDG>MADG000001</MaDG>
+        <MaTTV>MATTV00001</MaTTV>
+        <TenDG>Trần Văn Cao</TenDG>
+        <SDTDG>0961523144</SDTDG>
+        <GTDG>Nam</GTDG>
+        <NgaySinhDG>1998-01-25</NgaySinhDG>
+        <NgayCapTTV>2020-02-10T18:13:51.0</NgayCapTTV>
+        <NgayHetHanTTV>2021-02-10T18:13:51.0</NgayHetHanTTV>
+    </DOCGIA>
+    <DOCGIA>
+        <MaDG>MADG000002</MaDG>
+        <MaTTV>
+        </MaTTV>
+        <TenDG>Nguyễn Như Quỳnh</TenDG>
+        <SDTDG>09615241278</SDTDG>
+        <GTDG>Nữ</GTDG>
+        <NgaySinhDG>2000-05-20</NgaySinhDG>
+        <NgayCapTTV>2020-02-10T18:13:51.0</NgayCapTTV>
+        <NgayHetHanTTV>2021-02-10T18:13:51.0</NgayHetHanTTV>
+    </DOCGIA>
+    <PHIEUTHU>
+        <MaPT>MAPT000000</MaPT>
+        <MaSACH>MASA000000</MaSACH>
+        <NgayThu>2020-03-12T18:13:51.0</NgayThu>
+        <GiaTienThu>60000</GiaTienThu>
+    </PHIEUTHU>
+    <PHIEUTHU>
+        <MaPT>MAPT000001</MaPT>
+        <MaSACH>MASA000001</MaSACH>
+        <NgayThu>2020-05-04T18:13:51.0</NgayThu>
+        <GiaTienThu>90000</GiaTienThu>
+    </PHIEUTHU>
+    <PHIEUTHU>
+        <MaPT>MAPT000004</MaPT>
+        <MaSACH>MASA000004</MaSACH>
+        <NgayThu>2020-05-04T18:13:51.0</NgayThu>
+        <GiaTienThu>1250000</GiaTienThu>
+    </PHIEUTHU>
+    <BAOCAO>
+        <MaBC>MABC000000</MaBC>
+        <NgayBC>2019-05-04T18:13:51.0</NgayBC>
+        <TienThuDuoc>35000000.0</TienThuDuoc>
+        <TongTien>25000000.0</TongTien>
+    </BAOCAO>
+    <BAOCAO>
+        <MaBC>MABC000001</MaBC>
+        <NgayBC>2020-05-04T18:13:51.0</NgayBC>
+        <TienThuDuoc>50000000.0</TienThuDuoc>
+        <TongTien>35000000.0</TongTien>
+    </BAOCAO>
+    <PHIEUMUON>
+        <MaPM>MAPM000002</MaPM>
+        <MaSACH>MASA000002</MaSACH>
+        <NgayMuon>2020-05-07T08:13:51.0</NgayMuon>
+        <NgayTra>2020-05-14T17:13:51.0</NgayTra>
+        <HanTra>2006-05-21T18:13:51.0</HanTra>
+    </PHIEUMUON>
+    <PHIEUMUON>
+        <MaPM>MAPM000005</MaPM>
+        <MaSACH>MASA000005</MaSACH>
+        <NgayMuon>2020-06-03T15:30:00.0</NgayMuon>
+        <NgayTra>2020-06-15T13:10:10.0</NgayTra>
+        <HanTra>2020-06-17T15:30:00.0</HanTra>
+    </PHIEUMUON>
 </QUANLYTHUVIEN>
